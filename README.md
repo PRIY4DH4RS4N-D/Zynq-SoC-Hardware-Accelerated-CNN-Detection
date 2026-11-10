@@ -182,6 +182,3 @@ If you just want to run the model without rebuilding the kernel:
 
 ## 👨‍💻 Author
 **Priyadharsan D**
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
